@@ -1,5 +1,5 @@
 # MRI_SEQ_SYNTH
-<hr/>
+
 ## LINK TO PAPER WILL BE HERE
 <hr/>
 ## Abstract
