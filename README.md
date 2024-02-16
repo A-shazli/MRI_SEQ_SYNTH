@@ -1,4 +1,4 @@
-![image](https://github.com/A-shazli/MRI_SEQ_SYNTH/assets/61319952/5e552e33-7b44-4594-9c16-4d330396171c)# MRI_SEQ_SYNTH
+# MRI_SEQ_SYNTH
 
 ## LINK TO PAPER WILL BE HERE
 
