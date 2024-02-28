@@ -8,3 +8,8 @@ Manual segmentation of brain tumors in structural MRI images is an arduous and t
 <img src="https://github.com/A-shazli/MRI_SEQ_SYNTH/assets/61319952/fb9466d8-62a5-4c48-a48e-846a445dadcf">
 
 <h1>THIS REPO IS BASED ON COLAB NOTEBOOKS <br/>FOLLOW THE INSTRUCTIONS IN THE NOTEBOOKS TO RUN <br/>ALSO RUN THE NOTEBOOKS IN THE SEQUENCE THEY ARE NUMBERED</h1>
+<hr/>
+
+<h2>Make sure to read the comments and use the paths as shown in the notebooks</h2>
+
+<a href="https://drive.google.com/drive/u/0/folders/1x3xXbj5YS-8fWlt_ntTq0PHgIwDH_dbx">LINK TO PRETRAINED MODELS</a>
