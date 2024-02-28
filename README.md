@@ -12,4 +12,4 @@ Manual segmentation of brain tumors in structural MRI images is an arduous and t
 
 <h2>Make sure to read the comments and use the paths as shown in the notebooks</h2>
 
-<a href="https://drive.google.com/drive/u/0/folders/1x3xXbj5YS-8fWlt_ntTq0PHgIwDH_dbx">LINK TO PRETRAINED MODELS</a>
+
