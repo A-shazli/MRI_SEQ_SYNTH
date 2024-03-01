@@ -12,7 +12,7 @@ Manual segmentation of brain tumors in structural MRI images is an arduous and t
 ``` 
 pip install -r requirements.txt
 ```
-<a href="https://drive.google.com/drive/u/0/folders/1x3xXbj5YS-8fWlt_ntTq0PHgIwDH_dbx"><span>If you wont run the training notebook, here is a <span/>Link to pretrained model<a/>
+<h4>If you wont run the training notebook, here is a <a href="https://drive.google.com/drive/u/0/folders/1x3xXbj5YS-8fWlt_ntTq0PHgIwDH_dbx">Link to pretrained model<a/><h4/>
 
 <h1>THIS REPO IS BASED ON COLAB NOTEBOOKS <br/>FOLLOW THE INSTRUCTIONS IN THE NOTEBOOKS TO RUN <br/>ALSO RUN THE NOTEBOOKS IN THE SEQUENCE THEY ARE LABELED</h1>
 <h2>Make sure to read the comments and use the paths as shown in the notebooks</h2>
