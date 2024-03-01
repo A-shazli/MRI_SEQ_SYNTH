@@ -29,7 +29,7 @@
 <h4>If you wont run the training notebook, here is a <a href="https://drive.google.com/drive/u/0/folders/1x3xXbj5YS-8fWlt_ntTq0PHgIwDH_dbx">Link to pretrained models<a/><h4/>
 
 ## License
-This project is licensed under the "WILL SEARCH" License - see the <a href='https://github.com/A-shazli/MRI_SEQ_SYNTH/blob/main/LICENSE'>LICENSE.txt</a> file for details
+This project is licensed under the GNU general public License - see the <a href='https://github.com/A-shazli/MRI_SEQ_SYNTH/blob/main/LICENSE'>LICENSE.txt</a> file for details
 
 ## Citation
 <p>This work has been published in the alexandria engineering journal (AEJ). If you find this code usefull, feel free to use it (or part of it) in your project and please cite the following paper:</p>
