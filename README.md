@@ -5,10 +5,10 @@
 
 ## Application
 ### Synthesizing missing MRI sequence
-<img href='https://github.com/A-shazli/MRI_SEQ_SYNTH/assets/61319952/d5491ec6-2c7c-4e4c-94cf-f33dc026b277'>
+<img src='https://github.com/A-shazli/MRI_SEQ_SYNTH/assets/61319952/d5491ec6-2c7c-4e4c-94cf-f33dc026b277'>
 
 ### Brain tumor segmentation
-<img href='https://github.com/A-shazli/MRI_SEQ_SYNTH/assets/61319952/79b593fe-f21f-44de-b017-de68c7ce3a48'>
+<img src='https://github.com/A-shazli/MRI_SEQ_SYNTH/assets/61319952/79b593fe-f21f-44de-b017-de68c7ce3a48'>
 
 
 ## Prerequisites
