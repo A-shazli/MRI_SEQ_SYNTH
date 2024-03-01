@@ -30,5 +30,15 @@ This project is licensed under the "WILL SEARCH" License - see the <a href='http
 THIS WILL BE THE CITATION LOCATION
 ```
 
+## References
+<ol>
+  <li>
+    <a href='https://github.com/NVIDIA/DeepLearningExamples/blob/master/PyTorch/Segmentation/nnUNet/notebooks/BraTS21.ipynb'>Optimized U-Net for Brain Tumor Segmentation<a/>
+  </li>
+      <li>
+        <a href=''>IF SOMETHING ELSE SHOULD BE ADDED<a/>
+      </li>
+</ol>
+
 <hr/>
 
