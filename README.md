@@ -9,7 +9,7 @@ Manual segmentation of brain tumors in structural MRI images is an arduous and t
 
 <h3>Creare a new environment and in the terminal run the following command to install the required packages from the requirements.txt</h3>
 
-```
+``` 
 pip install -r requirements.txt
 ```
 <a href="https://drive.google.com/drive/u/0/folders/1x3xXbj5YS-8fWlt_ntTq0PHgIwDH_dbx">Link to pretrained model<a/>
