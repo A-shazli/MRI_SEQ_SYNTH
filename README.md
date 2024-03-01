@@ -1,6 +1,6 @@
-# MRI SEQ SYNTHESIS
+# Synthesizing Missing MRI Sequences Towards Reliable Brain Tumors Segmentation Using Deep Learning
 
-## LINK TO PAPER WILL BE HERE
+
 
 <img src="https://github.com/A-shazli/MRI_SEQ_SYNTH/assets/61319952/fb9466d8-62a5-4c48-a48e-846a445dadcf">
 
