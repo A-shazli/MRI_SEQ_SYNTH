@@ -14,6 +14,33 @@
 ## Prerequisites
 <ul>
   <li>Download the dataset <a href='https://www.med.upenn.edu/cbica/brats2021/#Data2'>from this link</a></li>
+  <li>Required file structure</li>
+  
+  ```
+  /data 
+ │
+ ├───BraTS2021_train
+ │      ├──BraTS2021_00000 
+ │      │      └──BraTS2021_00000_flair.nii.gz
+ │      │      └──BraTS2021_00000_t1.nii.gz
+ │      │      └──BraTS2021_00000_t1ce.nii.gz
+ │      │      └──BraTS2021_00000_t2.nii.gz
+ │      │      └──BraTS2021_00000_seg.nii.gz
+ │      ├──BraTS2021_00002
+ │      │      └──BraTS2021_00002_flair.nii.gz
+ │      ...    └──...
+ │
+ └────BraTS2021_val
+        ├──BraTS2021_00001 
+        │      └──BraTS2021_00001_flair.nii.gz
+        │      └──BraTS2021_00001_t1.nii.gz
+        │      └──BraTS2021_00001_t1ce.nii.gz
+        │      └──BraTS2021_00001_t2.nii.gz
+        ├──BraTS2021_00002
+        │      └──BraTS2021_00002_flair.nii.gz
+        ...    └──...
+  ```
+
   <li>
     <h3>Creare a new environment and in the terminal run the following command to install the required packages from the requirements.txt</h3>
 
