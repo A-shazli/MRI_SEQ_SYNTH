@@ -32,10 +32,19 @@
 This project is licensed under the GNU general public License - see the <a href='https://github.com/A-shazli/MRI_SEQ_SYNTH/blob/main/LICENSE'>LICENSE.txt</a> file for details
 
 ## Citation
-<p>This work has been published in the alexandria engineering journal (AEJ). If you find this code usefull, feel free to use it (or part of it) in your project and please cite the following paper:</p>
+<p>This work has been published in the alexandria engineering journal (AEJ). If you find this code usefull, feel free to use it (or part of it) in your project and please cite our <a href=''>paper</a>:</p>
 
 ```
-THIS WILL BE THE CITATION LOCATION
+@article{
+   title={Synthesizing Missing MRI Sequences Towards Reliable Brain Tumors Segmentation Using Deep Learning},
+   ISSN={},
+   url={},
+   DOI={},
+   journal={Alexandria Engineering Journal (AEJ)},
+   author={Abdulkhalek Al-Fakih, Abdullah Shazly, Abbas Mohammed, Mohammed Elbushnaq, Kanghyun Ryu, Yeong Hyeon Gu, Mohammed A. Al-masni, and Meena M. Makary},
+   year={},
+   month={}
+}
 ```
 
 ## References
@@ -43,9 +52,6 @@ THIS WILL BE THE CITATION LOCATION
   <li>
     <a href='https://github.com/NVIDIA/DeepLearningExamples/blob/master/PyTorch/Segmentation/nnUNet/notebooks/BraTS21.ipynb'>Optimized U-Net for Brain Tumor Segmentation<a/>
   </li>
-      <li>
-        <a href=''>IF SOMETHING ELSE SHOULD BE ADDED<a/>
-      </li>
 </ol>
 
 <hr/>
