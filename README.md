@@ -1,7 +1,7 @@
 # FLAIR MRI Sequence Synthesis Using Squeeze Attention Generative Model for Reliable Brain Tumor Segmentation
 
-## Model architechture
-<img src="https://github.com/A-shazli/MRI_SEQ_SYNTH/assets/61319952/fb9466d8-62a5-4c48-a48e-846a445dadcf">
+## Model architechtures
+<img src="https://github.com/A-shazli/MRI_SEQ_SYNTH/assets/61319952/34064ca4-1420-44d3-aec0-fb47d44a3a80">
 
 ## Application
 ### Synthesizing missing MRI sequence
