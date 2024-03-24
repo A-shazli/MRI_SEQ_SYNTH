@@ -3,6 +3,9 @@
 ## Model architechtures
 <img src="https://github.com/A-shazli/MRI_SEQ_SYNTH/assets/61319952/34064ca4-1420-44d3-aec0-fb47d44a3a80">
 
+## Full framwork
+<img src="https://github.com/A-shazli/MRI_SEQ_SYNTH/assets/61319952/0c85cd27-8df0-4774-a26c-7158740e9544">
+
 ## Application
 ### Synthesizing missing MRI sequence
 <img src='https://github.com/A-shazli/MRI_SEQ_SYNTH/assets/61319952/d5491ec6-2c7c-4e4c-94cf-f33dc026b277'>
