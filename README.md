@@ -1,4 +1,4 @@
-# Synthesizing Missing MRI Sequences Towards Reliable Brain Tumors Segmentation Using Deep Learning
+# FLAIR MRI Sequence Synthesis Using Squeeze Attention Generative Model for Reliable Brain Tumor Segmentation
 
 ## Model architechture
 <img src="https://github.com/A-shazli/MRI_SEQ_SYNTH/assets/61319952/fb9466d8-62a5-4c48-a48e-846a445dadcf">
@@ -62,7 +62,7 @@ This project is licensed under the GNU general public License - see the <a href=
 
 ```
 @article{
-   title={Synthesizing Missing MRI Sequences Towards Reliable Brain Tumors Segmentation Using Deep Learning},
+   title={FLAIR MRI Sequence Synthesis Using Squeeze Attention Generative Model for Reliable Brain Tumor Segmentation},
    ISSN={},
    url={},
    DOI={},
