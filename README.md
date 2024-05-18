@@ -53,7 +53,17 @@
   </li>
   
 </ul>
- 
+
+## Documentation
+### 1- FIRST NOTEBOOK (PREPROCESSING)
+This notebook's purpose is to do the necessary preprocessing to the volumes so they can be used as input to the GANs network. This includes, but is not limited to, converting to 2D images, normalization, and resizing to the GANs' default input size.
+### 2- SECOND NOTEBOOK(GANS INFERENCE)
+This notebook's purpose is to use our Attention GANs model to synthesize the missing FLAIR sequence and reconstruct the 3D volume from the 2D inferred FLAIR images, then save it at the required destination. If you want to use the pretrained sequence identification model, you can access it at this  <a href='https://github.com/Jpvmello/type-identification-mri-sequences'>Repo<a/>. However, we assume that the FLAIR is the one that is always missing, so we did not include it in our code.
+### 3- THIRD NOTEBOOK(SEGMENTAION)
+This notebook uses the optimized nnU-Net available at this  <a href='https://github.com/NVIDIA/DeepLearningExamples/blob/master/PyTorch/Segmentation/nnUNet/notebooks/BraTS21.ipynb'>Repo<a/> to segment the tumor using the three original sequences plus the synthesized FLAIR.
+### 4- FOURTH NOTEBOOK(SHAPE RESTORATION)
+This is an optional notebook you can use if you want to return the segmented prediction to its original dimensions. What we mean by original dimensions are the dimensions before background removal. Of course, you can use the segmentation mask as it is, but if you want to use the masks for online evaluations at the BraTS challenge, you must give them the predictions in their original shapes. In summary, this notebook crops the background volumes but saves the indices of cropping so you can undo it after the segmentation prediction. This background removal step is done by default in the optimized nnU-Net, but it does not save the indices.
+  
 ## Disclaimer
 <p>This repo is based on jupyter notebooks. Be sure to run the notebooks in the order they are labeled. <br>Make sure to read the comments and use the paths as shown in the notebooks</p>
 
