@@ -67,7 +67,7 @@ This is an optional notebook you can use if you want to return the segmented pre
 This is the notebook that you can use if you want to train your own Attention GANs network.
   
 ## Disclaimer
-<p>This repo is based on jupyter notebooks. Be sure to run the notebooks in the order they are labeled. <br>Make sure to read the comments and use the paths as shown in the notebooks</p>
+<p>This repo is based on jupyter notebooks. Be sure to run the notebooks in the order they are labeled. <br>Make sure to read the comments and use the paths as shown in the notebooks , And if you want to use our checkpoints please contact us at the following email m3zaelray2@gmail.com </p>
 
 ## License
 This project is licensed under the GNU general public License - see the <a href='https://github.com/A-shazli/MRI_SEQ_SYNTH/blob/main/LICENSE'>LICENSE.txt</a> file for details
