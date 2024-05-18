@@ -66,13 +66,13 @@ This project is licensed under the GNU general public License - see the <a href=
 ```
 @article{
    title={FLAIR MRI Sequence Synthesis Using Squeeze Attention Generative Model for Reliable Brain Tumor Segmentation},
-   ISSN={},
-   url={},
-   DOI={<a href="https://doi.org/10.1016/j.aej.2024.05.008>},
+   ISSN={2090-2670},
+   url={https://www.sciencedirect.com/science/article/pii/S111001682400468X?via%3Dihub},
+   DOI={https://doi.org/10.1016/j.aej.2024.05.008},
    journal={Alexandria Engineering Journal (AEJ)},
    author={Abdulkhalek Al-Fakih, Abdullah Shazly, Abbas Mohammed, Mohammed Elbushnaq, Kanghyun Ryu, Yeong Hyeon Gu, Mohammed A. Al-masni, and Meena M. Makary},
-   year={},
-   month={}
+   year={2024},
+   month={May}
 }
 ```
 
