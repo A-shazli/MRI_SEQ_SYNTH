@@ -61,7 +61,7 @@
 This project is licensed under the GNU general public License - see the <a href='https://github.com/A-shazli/MRI_SEQ_SYNTH/blob/main/LICENSE'>LICENSE.txt</a> file for details
 
 ## Citation
-<p>This work is currently undergoing review in the alexandria engineering journal (AEJ). If you find this code useful, feel free to use it (or part of it) in your project and please cite our <a href=''>paper</a>:</p>
+<p>If you find this code useful, feel free to use it (or part of it) in your project and please cite our <a href=''>paper</a>:</p>
 
 ```
 @article{
